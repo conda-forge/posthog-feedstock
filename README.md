@@ -116,4 +116,7 @@ Feedstock Maintainers
 =====================
 
 * [@mands](https://github.com/mands/)
+* [@Twixes](https://github.com/Twixes/)
+* [@yakkomajuri](https://github.com/yakkomajuri/)
+* [@neilkakkar](https://github.com/neilkakkar/)
 
