@@ -1,11 +1,11 @@
-About posthog
-=============
+About posthog-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/posthog-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/PostHog/posthog-python
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/posthog-feedstock/blob/main/LICENSE.txt)
 
 Summary: Integrate PostHog into any python application
 
