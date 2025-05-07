@@ -26,7 +26,7 @@ requirements:
     - monotonic >=1.5.0
     - backoff >=1.10.0
     - python-dateutil >=2.1.0
-    - distro >= 1.5.0" # Required for Linux OS detection in Python 3.9+
+    - distro >= 1.5.0 # Required for Linux OS detection in Python 3.9+
 
 test:
   imports:
