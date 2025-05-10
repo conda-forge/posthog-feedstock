@@ -144,7 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@Twixes](https://github.com/Twixes/)
-* [@neilkakkar](https://github.com/neilkakkar/)
+* [@dmarticus](https://github.com/dmarticus/)
 * [@posthog-bot](https://github.com/posthog-bot/)
-* [@yakkomajuri](https://github.com/yakkomajuri/)
-
+* [@k11kirky](https://github.com/k11kirky/)
