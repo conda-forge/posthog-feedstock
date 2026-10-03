@@ -1,5 +1,5 @@
 {% set name = "posthog" %}
-{% set version = "7.62.0" %}
+{% set version = "7.62.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: b5bb53bf3ab634ccfe3a8ac6b5ea3fa502b019db4b55313f929f1706bea098a7
+  sha256: 641e0a0a6022b66b6edf784126c3e5d0d8dedb47914524cbb59115afa2f2c655
 
 build:
   noarch: python
